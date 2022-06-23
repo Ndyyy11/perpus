@@ -28,7 +28,7 @@ $db = new MysqliDb();
 $get_tgl = $_GET['tgl'];
 $tgl = date('m', strtotime($get_tgl));
 ?>
-	<CENTER><h3>DAFTAR PENDAPATAN PERPUSTAKAAN SDN 01 GABUS PATI BULAN <?= $tgl ?></h3></CENTER>
+	<CENTER><h3>DAFTAR PENDAPATAN LIBRARY WEBS BULAN <?= $tgl ?></h3></CENTER>
 	<table border="1" cellpadding="4">
 		<thead>
 			<tr>

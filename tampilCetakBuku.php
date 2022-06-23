@@ -21,7 +21,7 @@
 </head>
 <body>
 	<BUTTON class="cetak" type="button" onclick="cetak();" id="cetak">Cetak</BUTTON>
-	<CENTER><h2>DAFTAR BUKU PERPUSTAKAAN SDN 01 GABUS PATI</h2></CENTER>
+	<CENTER><h2>DAFTAR BUKU LIBRARY WEBS</h2></CENTER>
 <?php 
 include('system/php-mysqli/MysqliDb.php');
 $db = new MysqliDb();

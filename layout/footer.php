@@ -1,8 +1,7 @@
 <!-- footer content -->
         <footer>
           <div class="pull-right">
-           Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a> |
-            Gentelella - Bootstrap Admin Template by <a href="https://colorlib.com">Colorlib</a>
+           Copyright | Andy Huang Wijaya - UIN SUSKA RIAU
           </div>
           <div class="clearfix"></div>
         </footer>
