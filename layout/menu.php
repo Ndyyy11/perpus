@@ -69,7 +69,7 @@
               <ul class="nav navbar-nav navbar-right">
                 <li class="">
                   <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                    <img src="assets/images/img.jpg" alt="">
+                    <img src="assets/images/img1.jpg" alt="">
                     <?php 
                       if(isset($_SESSION['admin']))
                       {
